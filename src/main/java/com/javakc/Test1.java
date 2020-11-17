@@ -6,5 +6,5 @@ package com.javakc;
  * @create 2020/11/1714:58
  */
 public class Test1 {
-
+    private String name;
 }
